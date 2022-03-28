@@ -24,7 +24,6 @@ const render = () => {
   <a class='clearBtn'>Clear all completed</a>
   </li>`;
 };
-
 render();
 addTask();
 editTask();
